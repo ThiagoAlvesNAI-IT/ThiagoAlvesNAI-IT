@@ -69,9 +69,3 @@
   </a>
 </div>
 
----
-
-<div align="center">
-  <p>Feito com 💻, ☕ e dedicação.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> & <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
